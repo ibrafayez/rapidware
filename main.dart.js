@@ -74584,8 +74584,8 @@ q.e=new R.aK(r,new R.ax(1,2,s),s.j("aK<ak.T>"))
 q.gmS().tp(0,!0)},
 m(a){this.gmS().m(0)
 this.Y4(0)},
-F(a,b){var s=null,r=b.L(t.w).f.a,q=r.b,p=this.f,o=r.a,n=this.r,m=q*0.2,l=o*0.02,k=o*0.45,j=t.p
-return T.bP(T.dH(C.ap,H.a([T.cX(s,new L.lm(o*0.15,s),s,s,s,o*(-0.05*n),q*(0*p),s),T.cX(s,new L.lm(o*0.08,s),s,s,s,o*(0.15*n),q*(0.13*p),s),T.cX(s,O.aqe(this.x,B.aqd(2,!0,!0,C.o)),o*0.28,s,s,l,m,o*0.4),T.cX(s,M.as(s,C.zH,C.j,s,s,s,s,s,s,C.c9,s,s,s),s,s,l,s,m,k),T.cX(s,M.as(s,C.zO,C.j,s,s,s,s,s,s,C.c9,s,s,s),s,s,l,s,q*0.45,k),T.cX(s,M.as(s,C.zK,C.j,s,s,s,s,s,s,C.c9,s,s,s),s,s,l,s,q*0.5,k),T.cX(s,T.em(H.a([new T.hM(new T.ai2(),"View Projects",200,40,s),new T.lF(new T.ai3(),"Contact us",200,40,C.n,s)],j),C.y,C.bY,C.v),s,s,l,s,q*0.57,o*0.35)],j),C.O,C.an),q*0.93,s)}}
+F(a,b){var s=null,r=b.L(t.w).f.a,q=r.b,p=this.f,o=r.a,n=this.r,m=o*0.15,l=q*0.2,k=o*0.02,j=o*0.45,i=t.p
+return T.bP(T.dH(C.ap,H.a([T.cX(s,new L.lm(m,s),s,s,s,o*(-0.05*n),q*(0*p),s),T.cX(s,new L.lm(o*0.08,s),s,s,s,o*(0.15*n),q*(0.13*p),s),T.cX(s,O.aqe(this.x,B.aqd(2,!0,!0,C.o)),o*0.28,s,s,k,l,o*0.4),T.cX(s,M.as(s,C.zH,C.j,s,s,s,s,s,s,C.c9,s,s,s),s,s,k,s,l,j),T.cX(s,M.as(s,C.zO,C.j,s,s,s,s,s,s,C.c9,s,s,s),s,s,k,s,q*0.45,j),T.cX(s,M.as(s,C.zK,C.j,s,s,s,s,s,s,C.c9,s,s,s),s,s,k,s,q*0.5,j),T.cX(s,T.em(H.a([new T.hM(new T.ai2(),"View Projects",m,40,s),new T.lF(new T.ai3(),"Contact us",m,40,C.n,s)],i),C.y,C.bY,C.v),s,s,k,s,q*0.57,o*0.35)],i),C.O,C.an),q*0.93,s)}}
 T.ai5.prototype={
 $1(a){var s=null,r=a.d
 r.toString
